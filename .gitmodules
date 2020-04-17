@@ -2,3 +2,6 @@
 	path = Motate
 	url = https://github.com/synthetos/Motate.git
 	fetchRecurseSubmodules = yes
+[submodule "ProyectoArduinoDue"]
+	path = ProyectoArduinoDue
+	url = https://github.com/FranciscoPoloChavez/ProyectoArduinoDue
